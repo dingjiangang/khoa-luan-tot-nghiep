@@ -1,0 +1,11 @@
+% ---------------------- All config of INS programe--------------------------
+% Author: Nhutvm
+% Last modified : 18/03/2016 
+% path to Input images folder
+data = 'E:\Malab Code\data\Images'
+% path to CNN model file
+model = 'E:\Malab Code\data\CNNmodels'
+% path to ouput folder
+output = 'E:\Malab Code\data\Feature'
+% image format
+imageformat = 'jpg'
